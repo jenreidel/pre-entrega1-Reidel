@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(6, 6, 102);
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    justify-content: space-between;
+    padding: 0px 25px;
+}
