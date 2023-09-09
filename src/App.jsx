@@ -1,12 +1,16 @@
+import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
-import NavBar from './components/NavBar/NavBar';
+import Navbar from './components/NavBar/NavBar';
 
 function App() {
 
   return (
-    <main>
-      <NavBar />
-    </main>
+    <body /*className="bg-img"*/>
+      <header>
+        <Navbar />
+        {/* <ItemListContainer greeting="PLANTAS DE INTERIOR PARA VESTIR TODOS TUS AMBIENTES" /> */}
+      </header>
+    </body>
   );
 };
 
