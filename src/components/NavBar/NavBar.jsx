@@ -12,7 +12,7 @@ function Navegador() {
                     <Navbar.Brand>
                         <img src={logo} alt="logo de tu jardin interior" style={{ width: '150px', height: 'auto' }} />
                     </Navbar.Brand>
-                    <Nav className="me-auto">
+                    <Nav>
                         <Nav.Link href="#home">Plantas de Interior</Nav.Link>
                         <Nav.Link href="#features">Macetas</Nav.Link>
                         <Nav.Link href="#pricing">Accesorios</Nav.Link>
