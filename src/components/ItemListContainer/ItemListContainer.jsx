@@ -4,7 +4,9 @@ function ItemListContainer (prop) {
     const {greeting} = prop
 
     return (
-        <span>{greeting}</span>
+        <div className='greeting'>
+            <span>{greeting}</span>
+        </div>
     )
 }
 
