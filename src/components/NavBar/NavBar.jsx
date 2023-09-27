@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 function Navegador() {
     return (
         <div>
-            <Navbar className='bg-color' data-bs-theme="light">
+            <Navbar id="ir-arriba" className='bg-color' data-bs-theme="light">
                 <Container className="navbar">
                     <Navbar.Brand>
                         <img src={logo} alt="logo de tu jardin interior" style={{ width: '150px', height: 'auto' }} />

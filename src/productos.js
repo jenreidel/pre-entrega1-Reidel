@@ -153,6 +153,134 @@ export const listaProductos = [
     },
     {
         id: 20,
+        nombre: "Copa Rotomoldeada Nº27",
+        precio: 8500,
+        descripcion: "Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Beige, Blanco, Gris, Negro y Rojo",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-copa.jpg"
+    },
+    {
+        id: 21,
+        nombre: "Inca rustica rotomoldeada",
+        precio: 12500,
+        descripcion: "Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Gris y Negro. Medidas: Altura 40 cm x Boca 25 cm x Base 18 cm",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-inca.jpg"
+    },
+    {
+        id: 22,
+        nombre: "Cono liso brillante rotomoldeado",
+        precio: 13000,
+        descripcion: "Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Negro, Blanco y Gris. Medidas: Altura 55 cm x Boca 35 cm x Base 25 cm",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-cono-roto.jpg"
+    },
+    {
+        id: 23,
+        nombre: "Haru con patas",
+        precio: 7500,
+        descripcion: "Hecha de cerámica, con patas. Viene en un delicado color Rosado. Medidas: 12 x 12 x 12 cm",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-haru.jpg"
+    },
+    {
+        id: 24,
+        nombre: "Hiromi alto",
+        precio: 15500,
+        descripcion: "Hecha de cerámica, con líneas decorativas. Viene en Blanco y Rosado. Medidas: 14 x 14 x 18 cm",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-hiromi.jpg"
+    },
+    {
+        id: 25,
+        nombre: "Hiromi bajo",
+        precio: 11500,
+        descripcion: "Hecha de cerámica, con líneas decorativas. Viene en Esmeralda y Terracota. Medidas: 15 x 15 x 13 cm",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-hiromi-b.jpg"
+    },
+    {
+        id: 26,
+        nombre: "Set Misioneras de Fibrocemento x4",
+        precio: 20500,
+        descripcion: "Aprovecha este combo único de 4 piezas. Aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas: 27 cm, 30 cm, 40 cm, 50 cm",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-misionera.jpg"
+    },
+    {
+        id: 27,
+        nombre: "Set Piramidales de Fibrocemento x4",
+        precio: 22500,
+        descripcion: "Aprovecha este combo único de 4 piezas. Aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas expresadas en Alto x Boca x Base. Medidas: 40x30x20, 50x25x20, 60x30x20, 70x30x20.",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-piramidal.jpg"
+    },
+    {
+        id: 28,
+        nombre: "Tartagal de Fibrocemento",
+        precio: 500,
+        descripcion: "Aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas expresadas en Alto x Boca x Base. Medidas: 45 cm x 35 cm x 20 cm.",
+        categoria: "Maceta",
+        imagen: "../src/assets/img/maceta-tartagal.jpg"
+    },
+    {
+        id: 29,
+        nombre: "Piedras",
+        precio: 500,
+        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        categoria: "Accesorio",
+        imagen: "../src/assets/img/piedras.jpg"
+    },
+    {
+        id: 30,
+        nombre: "Piedras",
+        precio: 500,
+        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        categoria: "Accesorio",
+        imagen: "../src/assets/img/piedras.jpg"
+    },
+    {
+        id: 30,
+        nombre: "Piedras",
+        precio: 500,
+        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        categoria: "Accesorio",
+        imagen: "../src/assets/img/piedras.jpg"
+    },
+    {
+        id: 30,
+        nombre: "Piedras",
+        precio: 500,
+        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        categoria: "Accesorio",
+        imagen: "../src/assets/img/piedras.jpg"
+    },
+    {
+        id: 30,
+        nombre: "Piedras",
+        precio: 500,
+        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        categoria: "Accesorio",
+        imagen: "../src/assets/img/piedras.jpg"
+    },
+    {
+        id: 30,
+        nombre: "Piedras",
+        precio: 500,
+        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        categoria: "Accesorio",
+        imagen: "../src/assets/img/piedras.jpg"
+    },
+    {
+        id: 30,
+        nombre: "Piedras",
+        precio: 500,
+        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        categoria: "Accesorio",
+        imagen: "../src/assets/img/piedras.jpg"
+    },
+    {
+        id: 30,
         nombre: "Piedras",
         precio: 500,
         descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
