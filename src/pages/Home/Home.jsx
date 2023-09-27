@@ -4,7 +4,7 @@ import ItemListContainer from "../../components/ItemListContainer/ItemListContai
 const Home = () => {
     return (
         <Layout>
-            <ItemListContainer greeting={"PLANTAS DE INTERIOR PARA VESTIR TODOS TUS AMBIENTES"}/>
+            <ItemListContainer greeting={<div><strong>PLANTAS DE INTERIOR</strong> {"PARA VESTIR TODOS TUS AMBIENTES"}</div>}/>
         </Layout>
     )
 }
