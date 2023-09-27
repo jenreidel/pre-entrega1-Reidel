@@ -34,7 +34,7 @@ function ItemListContainer ({greeting}) {
             <div className='greeting'>
                 <h1>{greeting}</h1>
             </div>
-            <div style={{display: 'flex', flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center'}}>
+            <div>
                 {
                     cargando ? (
                         <div style={{margin: 20, display: "flex", justifyContent: 'center', alignItems: 'center'}}> 

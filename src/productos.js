@@ -153,25 +153,25 @@ export const listaProductos = [
     },
     {
         id: 20,
-        nombre: "Copa Rotomoldeada Nº27",
+        nombre: "Copa Nº27",
         precio: 8500,
-        descripcion: "Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Beige, Blanco, Gris, Negro y Rojo",
+        descripcion: "Maceta Rotomoldeada. Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Beige, Blanco, Gris, Negro y Rojo",
         categoria: "Maceta",
         imagen: "../src/assets/img/maceta-copa.jpg"
     },
     {
         id: 21,
-        nombre: "Inca rustica rotomoldeada",
+        nombre: "Inca rustica",
         precio: 12500,
-        descripcion: "Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Gris y Negro. Medidas: Altura 40 cm x Boca 25 cm x Base 18 cm",
+        descripcion: "Maceta Rotomoldeada. Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Gris y Negro. Medidas: Altura 40 cm x Boca 25 cm x Base 18 cm",
         categoria: "Maceta",
         imagen: "../src/assets/img/maceta-inca.jpg"
     },
     {
         id: 22,
-        nombre: "Cono liso brillante rotomoldeado",
+        nombre: "Cono liso brillante",
         precio: 13000,
-        descripcion: "Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Negro, Blanco y Gris. Medidas: Altura 55 cm x Boca 35 cm x Base 25 cm",
+        descripcion: "Maceta Rotomoldeada. Resiste las condiciones climáticas más adversas, mantiene el color a través de los años, poseen protección UV. No se quiebran ni se parten al estar expuestas al sol. Son ultra livianas. Viene en Negro, Blanco y Gris. Medidas: Altura 55 cm x Boca 35 cm x Base 25 cm",
         categoria: "Maceta",
         imagen: "../src/assets/img/maceta-cono-roto.jpg"
     },
@@ -201,41 +201,41 @@ export const listaProductos = [
     },
     {
         id: 26,
-        nombre: "Set Misioneras de Fibrocemento x4",
+        nombre: "Set de Misioneras",
         precio: 20500,
-        descripcion: "Aprovecha este combo único de 4 piezas. Aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas: 27 cm, 30 cm, 40 cm, 50 cm",
+        descripcion: "Aprovecha este combo único de 4 piezas. Al estar hechas de fibrocemento, aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas: 27 cm, 30 cm, 40 cm, 50 cm",
         categoria: "Maceta",
         imagen: "../src/assets/img/maceta-misionera.jpg"
     },
     {
         id: 27,
-        nombre: "Set Piramidales de Fibrocemento x4",
+        nombre: "Set de Piramidales",
         precio: 22500,
-        descripcion: "Aprovecha este combo único de 4 piezas. Aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas expresadas en Alto x Boca x Base. Medidas: 40x30x20, 50x25x20, 60x30x20, 70x30x20.",
+        descripcion: "Aprovecha este combo único de 4 piezas. Al estar hechas de fibrocemento, aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas: 40x30x20, 50x25x20, 60x30x20, 70x30x20. (Alto x Boca x Base)",
         categoria: "Maceta",
         imagen: "../src/assets/img/maceta-piramidal.jpg"
     },
     {
         id: 28,
-        nombre: "Tartagal de Fibrocemento",
+        nombre: "Tartagal",
         precio: 500,
-        descripcion: "Aconsejamos impermeabilizar cada maceta para evitar futuras manchas de humedad. Medidas expresadas en Alto x Boca x Base. Medidas: 45 cm x 35 cm x 20 cm.",
+        descripcion: "Al estar hecha de fibrocemento, aconsejamos impermeabilizar la maceta para evitar futuras manchas de humedad. Medidas: 45 cm x 35 cm x 20 cm. (Alto x Boca x Base)",
         categoria: "Maceta",
         imagen: "../src/assets/img/maceta-tartagal.jpg"
     },
     {
         id: 29,
-        nombre: "Piedras",
-        precio: 500,
-        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        nombre: "Regadera alta",
+        precio: 2500,
+        descripcion: "Regadera metálica para sumar a tus rincones botánicos como elemento decorativo de diseño. Viene en Cobre, Blanco y Negro. Capacidad: 750ml. Medidas: 15 x 6 cm (Alto x Base).",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/piedras.jpg"
+        imagen: "../src/assets/img/regadera-metalica.webp"
     },
     {
         id: 30,
-        nombre: "Piedras",
-        precio: 500,
-        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        nombre: "Regadera baja",
+        precio: 2000,
+        descripcion: "Regadera metálica para sumar a tus rincones botánicos como elemento decorativo de diseño. Viene en Rosado, Cobre, Blanco y Negro. Capacidad: 1,3Lt. Medidas: 38 x 20 x 13 cm.",
         categoria: "Accesorio",
         imagen: "../src/assets/img/piedras.jpg"
     },
