@@ -1,11 +1,12 @@
 import Layout from "../../components/Layout/Layout"
+import contacto from '../../assets/img/contacto.png';
 
 const Contacto = () => {
     return (
         <Layout>
-            <h1 className="titulo"> <strong>CONTACTANOS</strong></h1>
+            <h1 className="titulo"><strong>CONTACTANOS</strong></h1>
             <div className="contacto-column">
-                <img className="img-bordered" src="../img/contacto.png" alt="informacion de contacto" width="70%"/>
+                <img className="img-bordered" src={contacto} alt="informacion de contacto" width="70%"/>
                 <hr/>
                 <div className="card" style="width: 18rem;">
                     <div className="card-body card-horario">

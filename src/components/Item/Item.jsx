@@ -10,9 +10,9 @@ const Item = ({prodSelec}) => {
             <Card className='card'>
                 <Card.Img variant="top" src={prodSelec.imagen} alt={prodSelec.nombre}/>
                 <Card.Body>
-                    <h4>{prodSelec.nombre}</h4>
-                    <h5>Precio ${prodSelec.precio}</h5>
-                    {/* <Link to={`../../productos.js/${item.id}`}>Ver Detalles</Link> */}
+                    <h3 className='txt-normal'>{prodSelec.nombre}</h3>
+                    <h5 className='txt-normal'>${prodSelec.precio}</h5>
+                    <Link className='link' to={`../../productos.js/${prodSelec.id}`}>Ver Detalles</Link>
                 </Card.Body>
             </Card>
         </div>

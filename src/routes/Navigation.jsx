@@ -12,7 +12,7 @@ const Navigation = () => {
             element: <Categorias />
         },
         {
-            path: "/contacto/:",
+            path: "/contacto",
             element: <Contacto />
         }
     ])

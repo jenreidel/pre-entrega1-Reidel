@@ -1,7 +1,12 @@
+import logo from '../../assets/img/logojardininterior.jpg';
+import irArriba from '../../assets/img/irarriba1.png';
+import './Footer.css';
+
 const Footer = () => {
 
     return (
         <div className="footer">
+            <hr />
             <div className="footer-centro">
                 <div>
                     <p className="titulo-footer">CONTACTO</p>
@@ -10,7 +15,7 @@ const Footer = () => {
                     <p className="txtnormal">Av. Corrientes 5473, CABA</p>
                 </div>
                 <div>
-                    <img src="../../assets/img/logojardininterior.jpg" alt="logo de tu jardin interior" className="img-footer" width="200"/>
+                    <img src={logo} alt="logo de tu jardin interior" className="img-footer" width="200"/>
                 </div>
                 <div>
                     <p className="titulo-footer">HORARIO DE ATENCIÓN</p>
@@ -20,7 +25,7 @@ const Footer = () => {
                 </div>
             </div>
             <div>
-                <a href="#ir-arriba"><img src="../../assets/img/irarriba1.png" alt="flecha ir arriba" width="35px" className="arriba-red"/></a>
+                <a href="#ir-arriba"><img src={irArriba} alt="flecha ir arriba" width="35px" className="arriba-red"/></a>
             </div>
             <div className="derechos txtnormal">
                 <p>Desarrollado por Jenisse Reidel. Todos los derechos reservados.</p>
