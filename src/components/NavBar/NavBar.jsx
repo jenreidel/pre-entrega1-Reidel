@@ -4,6 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import './NavBar.css';
 import logo from '../../assets/img/logojardininterior.jpg';
 import Cart from '../CartWidget/CartWidget';
+import { Link } from 'react-router-dom';
 
 function Navegador() {
     return (
@@ -14,14 +15,15 @@ function Navegador() {
                         <img src={logo} alt="logo de tu jardin interior" style={{ width: '150px', height: 'auto' }} />
                     </Navbar.Brand>
                     <Nav>
-                        <Nav.Link href="#home">Plantas de Interior</Nav.Link>
-                        <Nav.Link href="#features">Macetas</Nav.Link>
-                        <Nav.Link href="#pricing">Accesorios</Nav.Link>
-                        <Nav.Link href="#pricing">Contacto</Nav.Link>
+                        <Link to={"/"}>Inicio</Link>
+                        <Link to={"/categorias/Planta"}>Plantas de Interior</Link>
+                        <Link to={"/categorias/Maceta"}>Macetas</Link>
+                        <Link to={"/categorias/Accesorio"}>Accesorios</Link>
+                        <Link to={"/contacto"}>Contacto</Link>
                     </Nav>
                     <Cart />
                 </Container>
-            </Navbar>
+        </Navbar>
         </div>
     );
 }

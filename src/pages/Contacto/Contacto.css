@@ -1,0 +1,16 @@
+.contacto-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card-horario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titulo {
+    font-family: 'Alumni Sans', sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
