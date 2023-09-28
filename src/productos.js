@@ -217,7 +217,7 @@ export const listaProductos = [
     },
     {
         id: 28,
-        nombre: "Tartagal",
+        nombre: "Maceta Tartagal",
         precio: 500,
         descripcion: "Al estar hecha de fibrocemento, aconsejamos impermeabilizar la maceta para evitar futuras manchas de humedad. Medidas: 45 cm x 35 cm x 20 cm. (Alto x Boca x Base)",
         categoria: "Maceta",
@@ -229,7 +229,7 @@ export const listaProductos = [
         precio: 2500,
         descripcion: "Regadera metálica para sumar a tus rincones botánicos como elemento decorativo de diseño. Viene en Cobre, Blanco y Negro. Capacidad: 750ml. Medidas: 15 x 6 cm (Alto x Base).",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/regadera-metalica.webp"
+        imagen: "../src/assets/img/regadera-metal-alta.jpg"
     },
     {
         id: 30,
@@ -237,50 +237,50 @@ export const listaProductos = [
         precio: 2000,
         descripcion: "Regadera metálica para sumar a tus rincones botánicos como elemento decorativo de diseño. Viene en Rosado, Cobre, Blanco y Negro. Capacidad: 1,3Lt. Medidas: 38 x 20 x 13 cm.",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/piedras.jpg"
+        imagen: "../src/assets/img/regadera-metal-corta.jpg"
     },
     {
-        id: 30,
-        nombre: "Piedras",
-        precio: 500,
-        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        id: 31,
+        nombre: "Portamaceta bambú",
+        precio: 6500,
+        descripcion: "Completa tu espacio con un hermoso Portamaceta de bambú y madera color Natural. Medidas: 15 x 15 x 15 cm.",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/piedras.jpg"
+        imagen: "../src/assets/img/portamaceta-bambu.webp"
     },
     {
-        id: 30,
-        nombre: "Piedras",
-        precio: 500,
-        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        id: 32,
+        nombre: "Soporte Balconero",
+        precio: 1700,
+        descripcion: "Soporte de macetas balconero de hierro color Negro. Desde $1700.- Medidas disponibles (diámetro): 10 cm, 12 cm, 14 cm, 16 cm, 18 cm, 20 cm, 22 cm, 24 cm, 26 cm.",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/piedras.jpg"
+        imagen: "../src/assets/img/balconera-hierro.jpg"
     },
     {
-        id: 30,
-        nombre: "Piedras",
-        precio: 500,
-        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        id: 33,
+        nombre: "Pie nórdico",
+        precio: 10500,
+        descripcion: "Pie nórdico de hierro Negro de 8mm, ideal para macetas nº22 y nº27 desde $10.500.- Medidas disponibles (altura): 56 cm, 74 cm, 92 cm.",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/piedras.jpg"
+        imagen: "../src/assets/img/pie-nordico.jpg"
     },
     {
-        id: 30,
-        nombre: "Piedras",
-        precio: 500,
-        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        id: 34,
+        nombre: "Portamaceta madera",
+        precio: 5000,
+        descripcion: "Portamaceta cuadrado de madera. Desde $5.000.- Medidas disponibles 30 x 30 cm, 50 x 30 cm, 60 x 30 cm.",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/piedras.jpg"
+        imagen: "../src/assets/img/portamaceta-cuadrado.jpg"
     },
     {
-        id: 30,
-        nombre: "Piedras",
-        precio: 500,
-        descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",
+        id: 35,
+        nombre: "Portamaceta alto",
+        precio: 5500,
+        descripcion: "Portamacetas alto de hierro Negro, iodeal para macetas nº22. Desde $5.500.- Medidas disponibles: 60cm, 80 cm.",
         categoria: "Accesorio",
-        imagen: "../src/assets/img/piedras.jpg"
+        imagen: "../src/assets/img/portamaceta-alto.jpg"
     },
     {
-        id: 30,
+        id: 36,
         nombre: "Piedras",
         precio: 500,
         descripcion: "Una de las tantas ventajas de usarlas es que dan soluciones a problemas como humedad. También permiten separar las hojas verdes del sustrato.",

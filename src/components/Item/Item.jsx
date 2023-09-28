@@ -12,11 +12,10 @@ const Item = ({prodSelec}) => {
                 <Card.Body>
                     <h3 className='txt-normal'>{prodSelec.nombre}</h3>
                     <h5 className='txt-normal'>${prodSelec.precio}</h5>
-                    <Link className='link' to={`../../productos.js/${prodSelec.id}`}>Ver Detalles</Link>
+                    <Link className='link' to={`/producto/${prodSelec.id}`}>Ver Detalles</Link>
                 </Card.Body>
             </Card>
         </div>
-        
     )
 };
 
