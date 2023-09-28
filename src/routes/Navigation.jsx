@@ -1,6 +1,6 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { Home, Categorias, Contacto } from "../pages";
-import ItemDetailContainer from "../components/ItemDetail/ItemDetail";
+import ItemDetailContainer from "../components/ItemDetailContainer/ItemDetailContainer";
 
 const Navigation = () => {
     const routes = createBrowserRouter ([
