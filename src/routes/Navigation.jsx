@@ -1,6 +1,6 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { Home, Categorias, Contacto } from "../pages";
-import ItemDetail from "../components/ItemDetail/ItemDetail";
+import ItemDetailContainer from "../components/ItemDetail/ItemDetail";
 
 const Navigation = () => {
     const routes = createBrowserRouter ([
@@ -14,7 +14,7 @@ const Navigation = () => {
         },
         {
             path: "/producto/:idProducto",
-            element: <ItemDetail />
+            element: <ItemDetailContainer />
         },
         {
             path: "/contacto",

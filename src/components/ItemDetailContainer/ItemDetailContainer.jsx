@@ -44,3 +44,5 @@ const ItemDetailContainer = () => {
 }
 
 export default ItemDetailContainer;
+
+// Cómo hacer para que el loader se muestre sombreado SOBRE la pagina?? Creas un componente aparte y con css le pones que tenga un display absolute, con width 100vw y height 100vh. y ahi ya le mandas un background con transparencia

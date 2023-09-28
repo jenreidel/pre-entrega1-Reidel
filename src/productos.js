@@ -218,7 +218,7 @@ export const listaProductos = [
     {
         id: 28,
         nombre: "Maceta Tartagal",
-        precio: 500,
+        precio: 5000,
         descripcion: "Al estar hecha de fibrocemento, aconsejamos impermeabilizar la maceta para evitar futuras manchas de humedad. Medidas: 45 cm x 35 cm x 20 cm. (Alto x Boca x Base)",
         categoria: "Maceta",
         imagen: "../src/assets/img/maceta-tartagal.jpg"
