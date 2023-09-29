@@ -7,12 +7,16 @@ const ItemDetail = ({item}) => {
     return (
         <>
             <Layout>
-                <div>
-                    <img src={item.imagen} alt={item.nombre} />
+                <div style={{margin: 20, display: "flex", justifyContent: 'center', alignItems: 'center'}}>
+                    <h2 className='txt-normal centro'><strong>{item.nombre}</strong></h2>
+                </div>
+                <div className= "container-flex">
                     <div>
-                        <h3 className='txt-normal'>{item.nombre}</h3>
-                        <h5 className='txt-normal'>${item.precio}</h5>
-                        <h6 className='txt-normal'>${item.descripcion}</h6>
+                        <img src={item.imagen} alt={item.nombre}/>
+                    </div>
+                    <div className= "precio-descripcion">
+                        <h4 className='txt-normal'>Precio: ${item.precio}.-</h4>
+                        <h5 className='txt-normal'>{item.descripcion}</h5>
                     </div>
                 </div>
             </Layout>
